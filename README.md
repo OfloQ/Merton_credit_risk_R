@@ -1,5 +1,3 @@
-# Merton_credit_risk_R
-Merton structural credit risk model implemented in R. Estimates probability of default for S&amp;P 500 firms via numerical optimization of implied asset value and volatility, with sensitivity analysis and interactive 3D visualization.
 # Merton Credit Risk Model — S&P 500
 
 An end-to-end implementation of the **Merton structural credit risk model** in R, applied to any publicly traded firm in the S&P 500. The algorithm automates the full pipeline: from market data retrieval to probability of default estimation, sensitivity analysis, and interactive visualizations.
